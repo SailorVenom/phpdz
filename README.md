@@ -1,2 +1,2 @@
-# phpdz
-php homework
+# php
+дзшка по пхп
